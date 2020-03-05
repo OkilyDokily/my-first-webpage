@@ -1,0 +1,22 @@
+body {
+  background-color: lightsalmon;
+  text-align: center;
+}
+
+li {
+  font-family: cursive;
+  list-style: none;
+}
+
+em{
+  font-weight: 700;
+}
+
+h1{
+  font-size: x37px;
+}
+
+a {
+  color:green;
+  font-size: 15px;
+}
